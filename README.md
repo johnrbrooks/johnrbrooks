@@ -23,7 +23,7 @@ Here are some of the most recent projects I've worked on:
 
 I'm always looking to connect with new people and looking to learn anything I can about anything, especially technology and software development! Feel free to send me an email or connect with me on LinkedIn!
 
-**LinkedIn:** https://www.linkedin.com/in/johnbrooks-webdev/
-**Email:** johnrbrooks93@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/johnbrooks-webdev/
+* **Email:** johnrbrooks93@gmail.com
 
 Thanks for reading!
