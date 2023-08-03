@@ -17,7 +17,7 @@ Here are some of the most recent projects I've worked on:
 
 2. [helloWorld](https://github.com/kevinleet/helloWorld_frontend) - A real-time chat application built with React and Tailwind to allow for a simple user experience with the including of the OpenAI API for ChatGPT-style responses while chatting with other users.
 
-3. [My Fitness Planner](https://github.com/johnrbrooks/Workout-Helper) - A full-stack fitness calendar application built in Vanilla JS with full backend CRUD functionality.
+3. [My Fitness Calendar](https://github.com/johnrbrooks/Workout-Helper) - A full-stack fitness calendar application built in Vanilla JS with full backend CRUD functionality.
 
 4. [Sudoku](https://github.com/johnrbrooks/Sudoku-Game) - A simple Sudoku Game App that allows a user to play one of 3 possible Sudoku games of varying difficulty. Built in Vanilla JS with HTML and CSS.
 
