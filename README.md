@@ -13,13 +13,15 @@ Welcome to my GitHub profile! I'm a motivated Software Engineer fueled by a stro
 ## Projects
 Here are some of the most recent projects I've worked on:
 
-1. [StudioSync](https://github.com/johnrbrooks/StudioSync-frontend) - A fully responsive and comprehensive MERN stack application to manage a recording studio's customer relationships with full CRUD user and prospect functionality.
+1. [A Night To Forget Band Page](https://github.com/johnrbrooks/ANTF-Band-Site-Front) - A responsive web page for the band A Night To Forget built utilizing the MERN stack to allow show and song data to be stored and updated dynamically by the band members.
 
-2. [helloWorld](https://github.com/kevinleet/helloWorld_frontend) - A real-time chat application built with React and Tailwind to allow for a simple user experience with the including of the OpenAI API for ChatGPT-style responses while chatting with other users.
+2. [StudioSync](https://github.com/johnrbrooks/StudioSync-frontend) - A fully responsive and comprehensive MERN stack application to manage a recording studio's customer relationships with full CRUD user and prospect functionality.
 
-3. [My Fitness Calendar](https://github.com/johnrbrooks/Workout-Helper) - A full-stack fitness calendar application built in Vanilla JS with full backend CRUD functionality.
+3. [helloWorld](https://github.com/kevinleet/helloWorld_frontend) - A real-time chat application built with React and Tailwind to allow for a simple user experience with the including of the OpenAI API for ChatGPT-style responses while chatting with other users.
 
-4. [Sudoku](https://github.com/johnrbrooks/Sudoku-Game) - A simple Sudoku Game App that allows a user to play one of 3 possible Sudoku games of varying difficulty. Built in Vanilla JS with HTML and CSS.
+4. [My Fitness Calendar](https://github.com/johnrbrooks/Workout-Helper) - A full-stack fitness calendar application built in Vanilla JS with full backend CRUD functionality.
+
+5. [Sudoku](https://github.com/johnrbrooks/Sudoku-Game) - A simple Sudoku Game App that allows a user to play one of 3 possible Sudoku games of varying difficulty. Built in Vanilla JS with HTML and CSS.
 
 ## Contact
 
