@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a motivated Software Engineer fueled by a stro
 
 ## Technologies and Tools
 
-* **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Vite
-* **Backend:** Node.js, Express.js, Python, Django
+* **Frontend:** HTML, CSS, JavaScript, Typescript, React, Tailwind, Bootstrap, Vite
+* **Backend:** Node.js, Express.js, Python, Django, Java
 * **Database:** MongoDB, PostgreSQL
 * **Version Control:** Git, GitHub
 * **Other:** RESTful APIs, JSON, Axios
